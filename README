@@ -9,7 +9,8 @@ Than you should to install it:
 1. python3 setup.py sdist
 2. python3 setup.py install
 
-After that download Ubuntu-redmine-indicator. To test indicator you have to change in pyredmine.py HOST, USER, PASSWORD, and change issue number 199 line in pyredmine.py.
+After that download Ubuntu-redmine-indicator. To test indicator you have to change in pyredmine.py 
+HOST, USER, PASSWORD, and change issue number (199 line in pyredmine.py).
 
 Than Simply type python pyredmine.py.
 
